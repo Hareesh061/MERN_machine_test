@@ -1,10 +1,10 @@
-** This is the MERN stack internship task**
+**This is the MERN stack internship task**
 
-** Note: As part of this task I only created the front-end application. I'm not good with backend and now i'm started learning. So look at once my front end model.**
+**Note: As part of this task, I only created the front-end application. I'm not good with backend, and now i'm started learning. So look at my front-end model.**
 
 # Demo link: https://66a71c36225082df46ad52a3--timely-banoffee-74d828.netlify.app
 
-1. Created Login, Dashboard, Employeelist, Edit Employee, Create Employee pages.
+1. Created Login, Dashboard, Employeelist, Edit Employee, and Create Employee pages.
 
 The 'App' component serves as the entry point of the application, organizing the different routes and pages into a cohesive structure.
 
@@ -42,9 +42,9 @@ The 'App' component serves as the entry point of the application, organizing the
 
 
 
- # Intruction to Run Code:
+ # Instruction to Run Code:
 
-1. Clone the project in new folder.
+1. Clone the project into a new folder.
 2. Install the node modules
 3. run the code
 
